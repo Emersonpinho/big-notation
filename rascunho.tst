@@ -16,7 +16,7 @@ Big O - Ômicron
  |(Notação em Big O)
  | Space complexity / time complexity
 
-- Análisa o pior cenário!
+- Análisa o pior cenário! (não importa sem tem o laço e ele para no segundo, tem que imaginar ele parando no maior!!!!!!!! )
 
 f(x)
 
