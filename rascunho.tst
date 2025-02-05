@@ -24,5 +24,12 @@ O(n)
 O(1)
 
 RECEITA:
+
 - Somar cada passo do algoritmo
     3 + i * 3 = 3n + 3
+
+- ignorar as constantes
+    3n
+
+- ignorar os fatores multiplicativos
+    n
