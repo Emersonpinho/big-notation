@@ -16,6 +16,7 @@ Big O - Ômicron
  |(Notação em Big O)
  | Space complexity / time complexity
 
+- Análisa o pior cenário!
 
 f(x)
 
