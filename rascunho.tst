@@ -24,6 +24,11 @@ f(x)
 O(n)
 O(1)
 
+- Oque é log
+
+log2 8 = 3
+2³ = 8
+
 RECEITA:
 ("n" são interações no código)
 
@@ -35,6 +40,8 @@ RECEITA:
 
 - ignorar os fatores multiplicativos
     n
+
+
 
 O(n) - linear
 O(1) - constantes
