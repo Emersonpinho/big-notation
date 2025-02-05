@@ -25,6 +25,7 @@ O(n)
 O(1)
 
 RECEITA:
+("n" são interações no código)
 
 - Somar cada passo do algoritmo
     3 + i * 3 = 3n + 3
