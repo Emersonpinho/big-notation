@@ -24,3 +24,5 @@ O(n)
 O(1)
 
 RECEITA:
+- Somar cada passo do algoritmo
+    3 + i * 3 = 3n + 3
