@@ -1,5 +1,6 @@
-- Medição abstrata da ordem de crescimento de um algoritmo conforme a entrada aumenta
-> podemos dedir isso de duas formas:
+- Medição abstrata da ordem de crescimento de um algoritmo conforme a entrada aumenta.
 
-    1 --> Tempo de execução
-    2 --> Espaço
+| podemos dedir isso de duas formas:
+|
+|    1 --> Tempo de execução
+|    2 --> Espaço
