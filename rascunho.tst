@@ -26,7 +26,7 @@ O(1)
 
 - Oque é log
 
-log2 8 = 3
+log 8 = 3 (a base 2 do log2 está implicito)
 2³ = 8
 
 RECEITA:
