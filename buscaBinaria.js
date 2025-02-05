@@ -23,5 +23,5 @@ function busca_binaria(lista, e) {
 }
 
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-console.log(`Busca binária: ${busca_binaria(lista, 10)}`);
-console.log(`Busca binária: ${busca_binaria(lista, 21)}`);
+console.log(`Busca binária(10): ${busca_binaria(lista, 10)}`);
+console.log(`Busca binária(21): ${busca_binaria(lista, 21)}`);
