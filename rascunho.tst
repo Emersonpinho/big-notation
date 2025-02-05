@@ -12,7 +12,13 @@
     x = n² + 54n + 13       
 
 Big O - Ômicron
+ |
+ |(Notação em Big O)
+ | Space complexity / time complexity
 
-O(n)
 
 f(x)
+
+
+O(n)
+O(1)
