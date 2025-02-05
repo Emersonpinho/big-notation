@@ -11,3 +11,4 @@
     x = 990n²
     x = n² + 54n + 13       
 
+Big O - Ômicron
