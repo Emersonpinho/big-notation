@@ -22,3 +22,5 @@ f(x)
 
 O(n)
 O(1)
+
+RECEITA:
