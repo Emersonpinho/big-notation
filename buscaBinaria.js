@@ -13,5 +13,15 @@ function busca_binaria(lista, e) {
                 return busca(lista, e, inicio, meio - 1)
             }
         }
+
+        if (lista.length == 0) {
+            return false
+        } else {
+            return busca(lista, e, 0, lista.length - 1)
+        }
     }
 }
+
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+console.log(`Busca binária: ${busca_binaria(lista, 10)}`);
+console.log(`Busca binária: ${busca_binaria(lista, 21)}`);
