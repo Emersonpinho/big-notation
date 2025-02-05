@@ -34,3 +34,4 @@ RECEITA:
 - ignorar os fatores multiplicativos
     n
 
+O(n)
