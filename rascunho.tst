@@ -36,4 +36,5 @@ RECEITA:
 - ignorar os fatores multiplicativos
     n
 
-O(n)
+O(n) - linear
+O(1) - constantes
