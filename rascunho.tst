@@ -12,3 +12,7 @@
     x = n² + 54n + 13       
 
 Big O - Ômicron
+
+O(n)
+
+f(x)
