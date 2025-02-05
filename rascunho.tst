@@ -47,3 +47,4 @@ O(n) - linear
 O(log n) - logarítmica
 O(1) - constantes
 O(n²) - quadrático
+O(2^n) - exponencial
