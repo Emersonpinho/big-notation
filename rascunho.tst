@@ -33,3 +33,4 @@ RECEITA:
 
 - ignorar os fatores multiplicativos
     n
+
