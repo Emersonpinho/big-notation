@@ -6,3 +6,7 @@
 |    2 --> Espaço
 
 - Análise assintótica
+
+x = n²
+x = 990n²
+x = n² + 54n + 13
