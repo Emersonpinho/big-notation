@@ -4,3 +4,5 @@
 |
 |    1 --> Tempo de execução
 |    2 --> Espaço
+
+- Análise assintótica
